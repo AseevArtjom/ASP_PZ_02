@@ -1,0 +1,28 @@
+.login input{
+    height: 30px;
+    width: 140px;
+    font-size: 20px;
+    margin-right: 25px;
+}
+.flex{
+    display: flex;
+}
+.login button{
+    margin-top: 20px;
+    height: 20px;
+    width: 120px;
+    font-size: 20px;
+}
+.error-message{
+    color: red;
+}
+
+.container h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container form button {
+    height: 20px;
+    width: 100px;
+    background-color: indigo;
+}
